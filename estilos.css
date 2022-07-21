@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(./img/background.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+h2{
+    background-color: rgba(0, 0, 0, 0.391);
+    width: 100%;
+    text-align: center;
+    padding: 5px;
+    color:aliceblue;
+    
+}
+
+footer{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    font-size: 30px;
+    padding: 10px;
+    border-top: 3px solid white;
+    
+}
+
+i{
+    padding: 5px;
+    cursor:pointer;
+    color:white
+}
+
+i:hover{
+    transform:translateX(5px);
+    transition: 0,7s;
+    
+    
+}
+
+label{
+    color:aliceblue;
+    background-color: rgba(0, 0, 0, 0.832);
+}
+
+.tabla{
+    background-color: rgba(222, 184, 135, 0.45);
+    color: aliceblue;
+    text-shadow:2px white;
+}
+
+ul li{
+    color:black;
+    
+}
